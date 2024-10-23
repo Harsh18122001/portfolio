@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Mern Store",
+    "desc": "Ecommerce platform facilitates buyers in exploring various categories, products, and brands. Node.js for backend development, Express for routing, Mongoose for data modeling, React for user interface components, and Redux for state management..",
+    "category": "Web",
+    "links": {  
+      "code": "https://github.com/Harsh18122001/Mern-e-store"
+    }
+  },
+  {
+    "name": "ChatterBox",
+    "desc": "ChatterBox is a real-time chat application built with a tech stack that includes HTML, CSS, and JavaScript for the front-end interface, Node.js for the server-side environment, and Socket.io for enabling real-time communication.",
+    "category": "Web",
+    "links": {  
+      "code": "https://github.com/Harsh18122001/ChatterBox-"
+    }
+  },
+  
+  {
+    "name": "ChatterBox",
+    "desc": "ChatterBox is a real-time chat application built with a tech stack that includes HTML, CSS, and JavaScript for the front-end interface, Node.js for the server-side environment, and Socket.io for enabling real-time communication.",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/Harsh18122001/ChatterBox-"
+    }
+  },
+
+  {
+    "name": "ChatterBox",
+    "desc": "ChatterBox is a real-time chat application built with a tech stack that includes HTML, CSS, and JavaScript for the front-end interface, Node.js for the server-side environment, and Socket.io for enabling real-time communication.",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/Harsh18122001/ChatterBox-"
+    }
+  }
+  
+  
+]
